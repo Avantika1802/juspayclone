@@ -1,0 +1,9 @@
+.customer__logo {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    grid-column: span 2;
+    height: 64px;
+    justify-content: center;
+    position: relative;
+    width: 184px;}
